@@ -102,6 +102,7 @@ namespace LinkedListProgram
             Node preX = null;
             Node nodeX = null;
             Node nextX = null;
+            ///
 
             Node preY = null;
             Node nodeY = null;
