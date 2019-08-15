@@ -97,6 +97,11 @@ namespace LinkedListProgram
             return oldTail.Key;    
         }
 
+        /// <summary>
+        /// swap function
+        /// </summary>
+        /// <param name="x"></param>
+        /// <param name="y"></param>
         public void Swap(int x, int y)
         {
             Node preX = null;
